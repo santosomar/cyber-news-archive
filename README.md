@@ -1,4 +1,4 @@
-# Omar's Cyber News Archivea
+# Omar's Cyber News Archive
 This is a collection of public cybersecurity news that I collect and process using an AI agent (CyberWatch).
 
 ## About CyberWatch
