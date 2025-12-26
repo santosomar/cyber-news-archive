@@ -1,0 +1,54 @@
+### Title: Mentorship and Diversity: Shaping the Next Generation of Cyber Experts
+Link: https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts
+Summary: Patricia Voight, CISO at Webster Bank, shares her expertise on advancing cybersecurity careers, combating financial crimes, and championing diversity in a rapidly changing industry.
+
+### Title: As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026
+Link: https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026
+Summary: Developers are leaning more heavily on AI for code generation, but in 2026, the development pipeline and security need to be prioritized.
+
+### Title: Dark Reading Opens The State of Application Security Survey
+Link: https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey
+Summary: Take part in the new survey from Dark Reading and help uncover trends, challenges, and solutions shaping the future of application security.
+
+ - 
+### Title: Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code
+Link: https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html
+Summary: Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a "security incident" that led to the loss of approximately $7 million.
+The issue, the multi‑chain, non‑custodial cryptocurrency wallet service said, impacts version 2.68. The extension has about one million users, according to the Chrome Web Store listing. Users are advised to
+
+### Title: China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware
+Link: https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html
+Summary: A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its signature MgBot backdoor in attacks targeting victims in Türkiye, China, and India.
+The activity, Kaspersky said, was observed between November 2022 and November 2024. It has been linked to a
+
+### Title: Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection
+Link: https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html
+Summary: A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt injection.
+LangChain Core (i.e., langchain-core) is a core Python package that's part of the LangChain ecosystem, providing the core interfaces and model-agnostic abstractions for building
+
+### Title: ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories
+Link: https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html
+Summary: It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijacking everyday tools, trusted apps, and even AI assistants. What used to feel like clear-cut “hacker stories” now looks more like a mirror of the systems we all use.
+This week’s findings show a pattern: precision, patience, and persuasion. The
+
+### Title: LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds
+Link: https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html
+Summary: The encrypted vault backups stolen from the 2022 LastPass data breach have enabled bad actors to take advantage of weak master passwords to crack them open and drain cryptocurrency assets as recently as late 2025, according to new findings from TRM Labs.
+The blockchain intelligence firm said evidence points to the involvement of Russian cybercriminal actors in the activity, with one of the
+
+### Title: Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability
+Link: https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html
+Summary: Fortinet on Wednesday said it observed "recent abuse" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.
+The vulnerability in question is CVE-2020-12812 (CVSS score: 5.2), an improper authentication vulnerability in SSL VPN in FortiOS that could allow a user to log in successfully without being prompted for the second factor of authentication if the
+
+### Title: CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution
+Link: https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html
+Summary: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerability, tracked as CVE-2023-52163 (CVSS score: 8.8), relates to a case of command injection that allows post-authentication remote code
+
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
